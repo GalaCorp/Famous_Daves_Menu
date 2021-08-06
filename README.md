@@ -1,3 +1,3 @@
-# Famous_Daves_Menu
+# Famous Daves Menu
 
 ![](Images/Test.png)
